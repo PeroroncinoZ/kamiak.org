@@ -1,0 +1,3 @@
+const KamiakCSReact = () => {
+  consle.log('what the sus')
+}
